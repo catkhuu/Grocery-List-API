@@ -5,8 +5,7 @@ class CreateUser < ActiveRecord::Migration[5.1]
       t.string  :email, null: false
       t.string  :password_digest
       t.string  :position
-
-      t.timestamps(null: false)
+      t.timestamps null: false
     end
   end
 end
