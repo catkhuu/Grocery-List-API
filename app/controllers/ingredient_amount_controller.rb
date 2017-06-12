@@ -1,0 +1,2 @@
+class IngredientAmountController < ApplicationController
+end 
