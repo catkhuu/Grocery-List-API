@@ -1,0 +1,2 @@
+class SpecialtyPurchaseDestinationController < ApplicationController
+end 
